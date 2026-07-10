@@ -1,7 +1,7 @@
 ---
 name: global-company-person-school-detail
 description: Official skill for upkuajing (跨境魔方). Query school detail (学校详情) from the global company database (全球企业库). Get detailed school information including name, type, location, and social media URLs.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global School Detail Query

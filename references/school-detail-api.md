@@ -1,7 +1,7 @@
 # 全球学校详情 API 参考
 
 > 根据学校ID获取学校的详细信息，无需翻页。
-> 接口路径：`POST /agent/search/person/school/detail`
+> 接口路径：`POST /agent/search/depth_company/person/school/detail`
 
 ## python脚本参数
 

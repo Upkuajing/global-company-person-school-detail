@@ -18,7 +18,7 @@ def get_school_detail(sid: str) -> dict:
         包含学校详情的API响应
     """
     params = {'sid': sid}
-    response = make_request('/agent/search/person/school/detail', params)
+    response = make_request('/agent/search/depth_company/person/school/detail', params)
     return response
 
 def main():
