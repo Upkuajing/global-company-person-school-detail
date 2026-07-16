@@ -1,7 +1,7 @@
 ---
 name: global-company-person-school-detail
-description: Official skill for upkuajing (跨境魔方). Query school detail (学校详情) from the global company database (全球企业库). Get detailed school information including name, type, location, and social media URLs.
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Obtain detailed school information including classification, locations and social‑media links. Conduct institution verification and academic‑network research with global institutional‑data resources.\n\nTrigger: global institution lookup, educational‑institution verification, academic‑network analysis, institutional‑data enrichment, degree validation research"
+metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏫","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global School Detail Query
@@ -144,3 +144,6 @@ Other UpKuaJing skills you might find useful:
 - upkuajing-global-company-people-search — Unified company and people search across all sources
 - upkuajing-customs-trade-company-search — Search customs trade companies
 - upkuajing-contact-info-validity-check — Check contact info validity
+- phone-validity-check — Check phone number validity
+- email-validity-check — Check email address validity
+- domain-validity-check — Check domain validity and security
